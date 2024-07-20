@@ -5,7 +5,7 @@
 *.so
 *.dylib
 *.test
-*.log
+*.log76
 *.out
 avalanche-rosetta
 rosetta-server
